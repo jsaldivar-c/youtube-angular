@@ -6,9 +6,7 @@ Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-
 
 <br>
 
-![Youtube | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1611197471/GitHub/GitHub_README_-_Youtube_eufl73.png "Youtube | Angular")
-
-![Youtube | Angular](resources/portada.png "Youtube | Angular")
+![Youtube | Angular](src/assets/images/youtube.png "Youtube | Angular")
 
 <br>
 
