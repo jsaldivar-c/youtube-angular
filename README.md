@@ -1,27 +1,48 @@
-# Youtube
+# API Youtube
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+Ir a [YoutubeApp](https://josesaldivarc.com/angular/youtube/).
 
-## Development server
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) _**version 10.0.7.**_
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<br>
 
-## Code scaffolding
+![Youtube | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1611197471/GitHub/GitHub_README_-_Youtube_eufl73.png "Youtube | Angular")
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Youtube | Angular](resources/portada.png "Youtube | Angular")
 
-## Build
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-## Running unit tests
+<br>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> -   Framework **Angular 10.0.7**
+> -   Framework **Bootstrap 5 Beta**
+> -   TypeScript
+> -   API Youtube
+> -   Postman
+> -   Quicktype
 
-## Running end-to-end tests
+### **Caracterisiticas**
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+<br>
 
-## Further help
+Uso de API Youtube con Angular:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+> -   Creación de una API KEY para accesar a los servicios de YouTube API v3a
+> -   Uso de la documentación de YouTube para obtener información de un canal
+> -   Obtener una lista de reproducción
+> -   Crear una página en la cual pueda cargar los videos de forma paginada
+> -   Usar el Token de respuesta de la api de YouTube
+> -   Trabajar con tipado de datos
+> -   SweetAlert2
+
+<br>
+
+### Autor
+
+<br>
+
+Desarrollado en el curso _**Udemy | Angular de 0 a Avanzado | Fernando Herrera**_
+
+Realización de la practica: _**José Saldivar**_
