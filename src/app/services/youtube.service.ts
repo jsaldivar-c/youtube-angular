@@ -8,8 +8,8 @@ import { map } from 'rxjs/operators';
 })
 export class YoutubeService {
     private youtubeUrl = 'https://www.googleapis.com/youtube/v3';
-    private apiKey = 'AIzaSyA3BuvCyG4RYSXTb6MTgt6C0rzxdNGOWDA';
-    private playList = 'UUuaPTYj15JSkETGnEseaFFg';
+    private apiKey = 'gdhgdhdghdghdgdhgdhdghdghd';
+    private playList = 'shshshshshsgsgfsgsgs';
     private nextPageToken = '';
 
     constructor(private http: HttpClient) {}
